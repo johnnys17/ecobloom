@@ -3,6 +3,10 @@
 ## Project Overview
 EcoBloom is a responsive, visually appealing website designed to promote eco-friendly indoor plants and gardening kits. The site highlights sustainable greenery for urban homes, featuring sections for the company's mission, products, team, and contact information. Built with HTML and CSS, it emphasizes clean design, accessibility, and responsiveness across desktops, tablets, and mobile devices.
 
+**Live Demo**
+
+- [Live Link](https://johnnys17.github.io/ecobloom/)
+
 ## Features
 - **Responsive Design**: Adapts seamlessly to various screen sizes using CSS media queries, ensuring a professional look on desktops (≥768px), tablets (≤768px), and mobile phones (≤480px).
 - **Modern Navigation**: A sleek, centered navigation bar with hover effects, optimized for both desktop and mobile (vertical menu on smaller screens).
