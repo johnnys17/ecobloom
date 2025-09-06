@@ -27,3 +27,17 @@ EcoBloom is a responsive, visually appealing website designed to promote eco-fri
 
 ## Project Purpose
 EcoBloom serves as a portfolio project to showcase my front-end development skills, particularly in creating responsive, user-friendly websites. It demonstrates proficiency in HTML/CSS, responsive design principles, and attention to detail in crafting a professional, visually appealing interface suitable for a business promoting sustainability.
+
+## Author
+
+😎 JohnnyFSE
+
+📍 Orlando, Florida 
+
+📧 percussionjohnny@yahoo.com 
+
+✖️ [X](https://x.com/JohnnyFSE)
+
+🔗 [GitHub Profile](https://github.com/johnnys17)
+
+Feel free to explore the code, suggest improvements, or use it as inspiration.
